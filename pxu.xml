@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Name>quang</Name>
+    <Age>19</Age>
+    <Id>1</Id>
+    <Weight>60.4</Weight>
+  </Student>
+  <Student>
+    <Name>quangg</Name>
+    <Age>20</Age>
+    <Id>2</Id>
+    <Weight>66.66</Weight>
+  </Student>
+  <Student>
+    <Name>quanggg</Name>
+    <Age>20</Age>
+    <Id>3</Id>
+    <Weight>66.66</Weight>
+  </Student>
+  <Student>
+    <Name>quanggg</Name>
+    <Age>20</Age>
+    <Id>4444</Id>
+    <Weight>66.66</Weight>
+  </Student>
+</ArrayOfStudent>
